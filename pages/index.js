@@ -1,6 +1,6 @@
 
 function Home(){
-    return <h1>Loucura</h1>
+    return <h1>Loucura Maxíma</h1>
 }
 
 export default Home
